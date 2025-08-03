@@ -5,8 +5,6 @@ This project showcases three core data science use cases using real-world YouTub
 2. Cohort-based retention analysis, and  
 3. A simple rule-based recommender system.  
 
-Designed as a portfolio project for **TikTok Data Scientist Intern (LIVE team)**.
-
 ---
 
 ## 📁 Project Structure
