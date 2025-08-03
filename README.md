@@ -10,7 +10,7 @@ This project showcases three core data science use cases using real-world YouTub
 ## 📁 Project Structure
 
 ### 1. A/B Testing
-- **Objective**: Test whether longer videos are associated with higher subscriber counts.
+- **Objective**: Test whether longer videos affect with higher subscriber counts.
 - **Methods**:
   - Skewness check
   - Log transformation
