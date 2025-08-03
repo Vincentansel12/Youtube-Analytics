@@ -1,5 +1,8 @@
 # 📊 YouTube Analytics Portfolio: A/B Testing, Retention, and Recommender System
 
+Link to the dataset: https://www.kaggle.com/datasets/praneshmukhopadhyay/youtubers-saying-things?resource=download
+
+
 This project showcases three core data science use cases using real-world YouTube video data:  
 1. A/B testing,  
 2. Cohort-based retention analysis, and  
